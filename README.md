@@ -20,7 +20,7 @@ The system integrates a FastAPI backend and a React-based frontend, providing a 
 
 ## 📂 Dataset Overview
 
-- **Source**: [Kaggle - Diabetic Retinopathy Detection 2019](https://www.kaggle.com/competitions/diabetic-retinopathy-detection)
+- **Source**: [Kaggle - Diabetic Retinopathy Detection Gaussian Filtered](https://www.kaggle.com/datasets/sovitrath/diabetic-retinopathy-224x224-gaussian-filtered)
 
 - **Classes**:
   - `0`: No_DR (No Diabetic Retinopathy)
